@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a Flutter Project!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Find a New Job as Mobile App Developer and Contribute more to Open Source projects
+- 🥅 2020 Goals: Build More
 - ⚡ Love Cricket and Movies
 
 ### Connect with me:
